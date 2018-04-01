@@ -1,0 +1,1 @@
+Wallet app interacting with Ethereum blockchain
